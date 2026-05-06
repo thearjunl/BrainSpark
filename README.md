@@ -3,7 +3,7 @@
 BrainSpark is a modern, real-time quiz platform that uses AI to generate questions from PDF notes. Teachers can upload educational materials and create interactive quizzes, while students can participate in live quiz sessions with real-time leaderboards.
 
 ## ✨ Features
-
+ 
 ### For Teachers 👨‍🏫
 - **User Authentication**: Secure registration and login system
 - **PDF Upload & Processing**: Upload educational PDFs and extract text automatically
